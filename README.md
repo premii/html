@@ -6,6 +6,10 @@
 
 * Morphing DOM elements https://github.com/rich-harris/ramjet
 
+
+### Modules
+- Animated modal window - http://tympanus.net/Development/ModalWindowEffects/
+
 ## Tables
 
 ### Large tables
